@@ -7,7 +7,7 @@ Using docker redis:
 
 Finding your docker ip on Mac
 ```ifconfig```
-Most likely the address is: ```192.168.0.12```
+Find your IP address and look for something like : ```192.168.0.x``` but depends on your network
 
 
 Run app from command line:
